@@ -1,0 +1,6 @@
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\britt\source\repos\Laboratorio6\Capa_Datos\obj\Debug\Capa_Datos.pdb
